@@ -1,0 +1,9 @@
+INPUT "Number of big kites" mum
+INPUT "cost of one big kite" icosti
+INPUT number of small kites" num2
+INPUT "cast of ona small kite" cost2
+INPUT "number of reels mun
+INPUT "cost of one reel of thread" cest3
+COST- und costi+num2 cost2mum3 cost3
+INPUT "number of friends"; f
+PRINT "ANount required for the ocassion will be COST; "rupees"
